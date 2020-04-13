@@ -35,7 +35,7 @@ Example:
 
 [/start?zip=12345-6789&radius=5&email=foo%40example.com]()
 
-starts a monitor that is looking for open slots for stores sin  for 12345-6789 ZIP code
+starts a monitor that is looking for open slots for stores in 12345-6789 ZIP code
 
 ### List active monitors
 [/monitors]()
