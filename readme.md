@@ -7,6 +7,7 @@
 [/stores]()
 
 URL Parameters:
+
 * zip
 * radius (miles)
 
@@ -15,6 +16,7 @@ URL Parameters:
 [/slots]()
 
 URL Parameters:
+
 * zip
 * radius (miles)
 * email (urlencoded)
@@ -24,6 +26,7 @@ URL Parameters:
 [/start]()
 
 URL Parameters:
+
 * zip
 * radius (miles)
 * email (urlencoded)
